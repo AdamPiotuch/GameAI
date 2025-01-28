@@ -1,7 +1,7 @@
 # GameAI
 
 ## Description
-A basic sample using the Unity AI Navigation package. This sample demonstrates the use of ProBuilder and prefabs for scene geometry with a navmesh used for Agent navigation. A rigidbody component is configured on Agents so that they can interact with debris in the scene. The navmesh and Agent settings are configured to allow the agents to assend stairs and ramps and to be able to fall off elevated areas when following the player. A single script called te AgentManager is in the scene which procedurally registers and updates the agents to follow the player.
+A basic sample using the Unity AI Navigation package. This sample demonstrates the use of ProBuilder and prefabs for scene geometry with a navmesh used for Agent navigation. A rigidbody component is configured on Agents so that they can interact with debris in the scene. The navmesh and Agent settings are configured to allow the agents to assend stairs and ramps and to be able to fall off elevated areas when following the player. A single script called the AgentManager is in the scene which procedurally registers and updates the agents to follow the player.
 
 ## How To Play
 1. Open the AI Navigation Sample Scene.
