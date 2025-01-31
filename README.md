@@ -9,4 +9,4 @@ A basic sample using the Unity AI Navigation package. This sample demonstrates t
 3. Use the arrow or AWSD keys to move the player, spacebar to jump, and hold shift to run.
 
 ## Functionality  
-You can navigation around the scene and knock over debris. AI Agents will navigation toward you and can also knock over debris without it interferring witht their navigation using built in Unity Physics.
+You can navigation around the scene and knock over debris. AI Agents will navigation toward you and can also knock over debris without it interferring with their navigation using built in Unity Physics.
